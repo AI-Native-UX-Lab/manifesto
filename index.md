@@ -1,1 +1,2 @@
-Test index file for Pages
+# AI‑Native UX Lab
+Independent research initiative exploring what user interfaces become when AI is no longer an add‑on but the primary computational substrate. We investigate fluid, generative, and emotion‑aware interfaces built from semantic surfaces rather than static applications, using research‑driven prototyping as our core method. The manifesto captures our evolving thinking at the intersection of generative UI, human‑AI rapport, and systems‑level interface design, as we work toward a new paradigm for AI‑native interaction.
