@@ -15,6 +15,8 @@ When AI becomes the underlying medium of interaction, interfaces are no longer d
 ## From Applications to Semantic Surfaces
 We propose semantic surfaces as the fundamental unit of interaction: dynamic, meaning‑oriented interface constructs that emerge in response to user intent and system understanding, rather than being predefined by application boundaries.
 
+Traditional applications promise stability through fixed structure, yet evolve continuously through enforced updates that disrupt learned workflows. As the pace of change accelerates, this model increasingly shifts the burden of adaptation onto users. Semantic surfaces explore an alternative form of continuity—one grounded in accumulated preference, intent, and relationship over time—where change is contextual, negotiated, and reversible rather than imposed.
+
 ## Fluid Interaction and Generative UI
 Generative UI enables interfaces to be composed, adapted, and dissolved dynamically. Interaction becomes fluid, allowing the system to reshape representation and control structures as goals, context, and understanding evolve.
 
